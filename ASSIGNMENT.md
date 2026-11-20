@@ -216,6 +216,6 @@ you can use the following as a quick final check:
 
 ```sh
 mvn clean test
-python3 test_submission.py
+python3 test_submission.huanjdnjnjsd
 git status --short
 ```
